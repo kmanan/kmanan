@@ -11,4 +11,8 @@ Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents.
 - [gethomepage](https://github.com/kmanan/gethomepage) ⭐ 17 — homepage landing
 - [claude-setup](https://github.com/kmanan/claude-setup) — Claude Code config
 
+**Upstream**
+
+- [openclaw/openclaw#77155](https://github.com/openclaw/openclaw/issues/77155) — found and got fixed: `doctor --fix` wiping externalized plugins during v2026.5.2 migration
+
 [beingmanan.com](https://beingmanan.com)
