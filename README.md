@@ -1,6 +1,6 @@
 ### Manan
 
-Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents.
+Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents. Read about my homelab, smart home, AI-journey here: [Tech Blog](https://beingmanan.com).
 
 ---
 
@@ -17,4 +17,3 @@ Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents.
 - printing-press-library: [merged PR #504](https://github.com/mvanhorn/printing-press-library/pull/504) — broadened `pp-wanderlust-goat` skill triggers so LLM routers invoke the CLI for city-wide place queries ("best coffee in Redmond"), not just "near me" anchored ones
 - feedparser ReDoS: [issue #562](https://github.com/kurtmckee/feedparser/issues/562) · [PoC](https://github.com/kmanan/feedparser-redos-poc) — CWE-1333 in `_sync_author_detail()`, CVE assignment in progress
 
-[Tech Blog](https://beingmanan.com)
