@@ -13,6 +13,6 @@ Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents.
 
 **Upstream**
 
-- [openclaw/openclaw#77155](https://github.com/openclaw/openclaw/issues/77155) — found and got fixed: `doctor --fix` wiping externalized plugins during v2026.5.2 migration
+- OpenClaw: [issue #77155](https://github.com/openclaw/openclaw/issues/77155) → [merged fix #77573](https://github.com/openclaw/openclaw/pull/77573) — `doctor --fix` wiping externalized plugins during v2026.5.2 migration
 
 [beingmanan.com](https://beingmanan.com)
