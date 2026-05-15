@@ -7,7 +7,7 @@ Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents. 
 - [cyberprism.app](https://cyberprism.app) — Cybersecurity threat intel platform
 - [spratt-skills](https://github.com/kmanan/spratt-skills) — Custom skills built for my family butler, Spratt, built on OpenClaw
 - [cheap-openclaw](https://github.com/kmanan/cheap-openclaw) — several adjustments to OpenClaw to drastically reduce AI spend to run OpenClaw as my family butler
-- [npm-mobile](https://github.com/kmanan/npm-mobile) ⭐ 75 — Nginx Proxy Manager dashboard
+- [npm-mobile](https://github.com/kmanan/npm-mobile) ⭐ 75 — Nginx Proxy Manager Android and iOS app
 - [gethomepage](https://github.com/kmanan/gethomepage) ⭐ 17 — Homelab landing page for the homepage project
 - [claude-setup](https://github.com/kmanan/claude-setup) — My Claude Code configuration to reduce interruptions
 
