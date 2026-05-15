@@ -11,7 +11,7 @@ Founder, [Kryton Labs](https://krytonlabs.com). I ship products with AI agents. 
 - [gethomepage](https://github.com/kmanan/gethomepage) ⭐ 17 — Homelab landing page for the homepage project
 - [claude-setup](https://github.com/kmanan/claude-setup) — My Claude Code configuration to reduce interruptions
 
-**Upstream**
+**Upstream Contributions**
 
 - OpenClaw: [issue #77155](https://github.com/openclaw/openclaw/issues/77155) → [merged fix #77573](https://github.com/openclaw/openclaw/pull/77573) — `doctor --fix` wiping externalized plugins during v2026.5.2 migration
 - Wanderlust - OpenClaw integration in printing-press-library: [merged PR #504](https://github.com/mvanhorn/printing-press-library/pull/504) — broadened `pp-wanderlust-goat` skill triggers so LLM routers invoke the CLI for city-wide place queries ("best coffee in Redmond"), not just "near me" anchored ones
