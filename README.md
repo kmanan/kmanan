@@ -26,11 +26,11 @@ Real fixes shipped upstream — bug hunting, root-cause analysis, and PRs agains
 - 🔧 **[issue #82904](https://github.com/openclaw/openclaw/issues/82904) → [merged fix #82986](https://github.com/openclaw/openclaw/pull/82986)** — Managed Chrome CDP launch was throwing self-contradicting failures on cold-start: `isChromeReachable` (HTTP-only probe) and `diagnoseChromeCdp` (full WebSocket + `Browser.getVersion`) disagreed about readiness. Reported with a 5-incident history, root cause traced through the built JS, and a proposed fix that shipped on `main`.
 - 🔧 **[issue #77155](https://github.com/openclaw/openclaw/issues/77155) → [merged fix #77573](https://github.com/openclaw/openclaw/pull/77573)** — `doctor --fix` was wiping externalized plugins during the v2026.5.2 migration.
 
-### printing-press-library (CLI library for agents)
+### printing-press-library (CLI skills for agents)
 
-- 🌍 **[merged PR #504](https://github.com/mvanhorn/printing-press-library/pull/504)** — Broadened `pp-wanderlust-goat` skill triggers so LLM routers invoke the CLI for city-wide place queries ("best coffee in Redmond"), not just "near me"-anchored ones.
-- 🛒 **[issue #501](https://github.com/mvanhorn/printing-press-library/issues/501) → [fix #539](https://github.com/mvanhorn/printing-press-library/pull/539)** and **[issue #546](https://github.com/mvanhorn/printing-press-library/issues/546) → [fix #563](https://github.com/mvanhorn/printing-press-library/pull/563)** — Location bugs that broke the Instacart plugin.
-- ☁️ **[issue #502](https://github.com/mvanhorn/printing-press-library/issues/502) → [fix #541](https://github.com/mvanhorn/printing-press-library/pull/541)** — `weather-goat-pp-cli` geocoding was routing `/search` to `api.open-meteo.com` (404) instead of Open-Meteo's dedicated `geocoding-api.open-meteo.com` host.
+- 🌍 **Wanderlust skill** — [merged PR #504](https://github.com/mvanhorn/printing-press-library/pull/504): broadened `pp-wanderlust-goat` triggers so LLM routers invoke the CLI for city-wide place queries ("best coffee in Redmond"), not just "near me"-anchored ones.
+- 🛒 **Instacart CLI skill** — [issue #501](https://github.com/mvanhorn/printing-press-library/issues/501) → [fix #539](https://github.com/mvanhorn/printing-press-library/pull/539) and [issue #546](https://github.com/mvanhorn/printing-press-library/issues/546) → [fix #563](https://github.com/mvanhorn/printing-press-library/pull/563): location bugs that broke the Instacart plugin.
+- ☁️ **Weather Goat skill** — [issue #502](https://github.com/mvanhorn/printing-press-library/issues/502) → [fix #541](https://github.com/mvanhorn/printing-press-library/pull/541): `weather-goat-pp-cli` geocoding was routing `/search` to `api.open-meteo.com` (404) instead of Open-Meteo's dedicated `geocoding-api.open-meteo.com` host.
 
 ### feedparser
 
@@ -58,10 +58,6 @@ Real fixes shipped upstream — bug hunting, root-cause analysis, and PRs agains
 - 🚀 **[nodejsdeploy](https://github.com/kmanan/nodejsdeploy)** — Tiny stop / deploy / start script for PM2 apps
 - 🔌 **[WindowsNAR](https://github.com/kmanan/WindowsNAR)** ⭐ 4 — Network adapter reset app for Windows
 
-### Security Research
-
-- 🪲 **[feedparser-redos-poc](https://github.com/kmanan/feedparser-redos-poc)** — Reproducer for CWE-1333 ReDoS in feedparser ≤ 6.0.11 (CVE assignment in progress)
-
 ## Products at Kryton Labs
 
 Not on GitHub — closed-source products I build and ship at [krytonlabs.com](https://krytonlabs.com).
@@ -73,10 +69,6 @@ Not on GitHub — closed-source products I build and ship at [krytonlabs.com](ht
 - 🍎 **[DarwinMQTT](https://krytonlabs.com/darwinmqtt)** — macOS ↔ Home Assistant bridge over MQTT, privacy-first
 - 🖼️ **[OpenGraph Resizer](https://opengraph.krytonlabs.com)** — Free tool to optimize images for social-media sharing
 - 📺 **[Tech Reviews Hub](https://gadgets.krytonlabs.com)** — Gadget reviews aggregated from YouTube creators
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/kmanan)
 
 ## Connect
 
