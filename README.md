@@ -34,7 +34,7 @@ Real fixes shipped upstream — bug hunting, root-cause analysis, and PRs agains
 
 ### feedparser
 
-- 🪲 **[issue #562](https://github.com/kurtmckee/feedparser/issues/562)** · **[PoC](https://github.com/kmanan/feedparser-redos-poc)** — CWE-1333 ReDoS in `_sync_author_detail()`. CVE assignment in progress.
+- 🪲 **[issue #562](https://github.com/kurtmckee/feedparser/issues/562)** · **[PoC](https://github.com/kmanan/feedparser-redos-poc)** — Denial-of-service vulnerability in feedparser ≤ 6.0.11: a crafted RSS/Atom author field triggers catastrophic regex backtracking in `_sync_author_detail()` and hangs the parser (ReDoS / CWE-1333). CVE assignment in progress.
 
 ## GitHub Projects
 
