@@ -1,6 +1,6 @@
 # Hi, I'm Manan 👋
 
-🏗️ **Founder, [Kryton Labs](https://krytonlabs.com)** · 🤖 **Shipping products with AI agents** · 🛡️ **Cybersecurity**
+🏗️ **Founder, [Kryton Labs](https://krytonlabs.com)** · 🤖 **Shipping products with AI agents** · 🛡️ ** Work in Cybersecurity**
 
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF6B35?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
