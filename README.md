@@ -1,6 +1,6 @@
 # Hi, I'm Manan 👋
 
-🤖 **Shipping products with AI agents [Kryton Labs](https://krytonlabs.com)** · 🏗️ **Write about my tech, [Tech Blog](https://beingmanan.com)** · 🛡️ **Work in Cybersecurity**
+🤖 **Shipping products with AI agents: [Kryton Labs](https://krytonlabs.com)** · 🏗️ **Write about my tech: [Blog](https://beingmanan.com)** · 🛡️ **Work in Cybersecurity**
 
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF6B35?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
