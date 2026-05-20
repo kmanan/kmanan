@@ -44,6 +44,11 @@ Real fixes shipped upstream — bug hunting, root-cause analysis, and PRs agains
 - 💸 **[cheap-openclaw](https://github.com/kmanan/cheap-openclaw)** — 14 production-tested techniques to cut OpenClaw spend by 10x
 - 🛠️ **[claude-setup](https://github.com/kmanan/claude-setup)** — My Claude Code config for running 20+ projects with zero friction
 
+### Web Tools & Utilities
+
+- 🖼️ **[OpenGraph Resizer](https://github.com/kmanan/opengraph-generator)** — Self-hostable OpenGraph image resizer, favicon generator, and MCP-enabled URL analyzer
+- 📈 **[Child Growth Chart](https://github.com/kmanan/child-growth-graph)** — Web app for tracking kids' growth against health standards
+
 ### Apps
 
 - 🛜 **[npm-mobile](https://github.com/kmanan/npm-mobile)** ⭐ 76 — Nginx Proxy Manager on your phone (Flutter, iOS + Android)
@@ -65,9 +70,7 @@ Not on GitHub — closed-source products I build and ship at [krytonlabs.com](ht
 - 🛡️ **[CyberPrism](https://cyberprism.app)** — Mobile-first cybersecurity threat-intel platform
 - 🧩 **[ArtFall](https://artfall.app)** — iOS puzzle game where stacking pieces reveals classic artworks
 - 🤝 **[Team Exercises](https://teamexercises.app)** — AI-driven web platform for team-building activities
-- 📈 **[Child Growth Chart](https://krytonlabs.com/childgrowth)** — Web app tracking kids' growth against health standards
 - 🍎 **[DarwinMQTT](https://krytonlabs.com/darwinmqtt)** — macOS ↔ Home Assistant bridge over MQTT, privacy-first
-- 🖼️ **[OpenGraph Resizer](https://opengraph.krytonlabs.com)** — Free tool to optimize images for social-media sharing
 - 📺 **[Tech Reviews Hub](https://gadgets.krytonlabs.com)** — Gadget reviews aggregated from YouTube creators
 
 ## Connect
